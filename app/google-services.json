@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1036226762751",
+    "firebase_url": "https://sampmessage.firebaseio.com",
+    "project_id": "sampmessage",
+    "storage_bucket": "sampmessage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036226762751:android:796983d900370a9f",
+        "android_client_info": {
+          "package_name": "in.cyberworldtechnologies.sampmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036226762751-4629p57qhr47pnvt0f5c6vcf5n1ki031.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.cyberworldtechnologies.sampmessage",
+            "certificate_hash": "24e1499e024dab526f785e7143bc3cd83a50faae"
+          }
+        },
+        {
+          "client_id": "1036226762751-58ure54ru3i85abditljul5pt8o1j9tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuPJb4IjC6ziYGhCcxNEz8lS0UPwFijBA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036226762751-58ure54ru3i85abditljul5pt8o1j9tl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
