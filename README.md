@@ -12,4 +12,4 @@
     
     3. https://github.com/cyberworldtechnologies/LoadAdsFromFirebase/blob/master/loadadsfromfirebase2.png
     
-    ![](loadadsfromfirebase.png)
+    ![](master/loadadsfromfirebase.png)
